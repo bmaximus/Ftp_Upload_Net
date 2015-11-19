@@ -1,0 +1,9 @@
+D:\_projects\FTP Upload\FTP_3xc\FTP_3xc\bin\Debug\FTP_3xc.exe.config
+D:\_projects\FTP Upload\FTP_3xc\FTP_3xc\bin\Debug\FTP_3xc.exe
+D:\_projects\FTP Upload\FTP_3xc\FTP_3xc\bin\Debug\FTP_3xc.pdb
+D:\_projects\FTP Upload\FTP_3xc\FTP_3xc\obj\Debug\FTP_3xc.csprojResolveAssemblyReference.cache
+D:\_projects\FTP Upload\FTP_3xc\FTP_3xc\obj\Debug\FTP_3xc.Form1.resources
+D:\_projects\FTP Upload\FTP_3xc\FTP_3xc\obj\Debug\FTP_3xc.Properties.Resources.resources
+D:\_projects\FTP Upload\FTP_3xc\FTP_3xc\obj\Debug\FTP_3xc.csproj.GenerateResource.Cache
+D:\_projects\FTP Upload\FTP_3xc\FTP_3xc\obj\Debug\FTP_3xc.exe
+D:\_projects\FTP Upload\FTP_3xc\FTP_3xc\obj\Debug\FTP_3xc.pdb
