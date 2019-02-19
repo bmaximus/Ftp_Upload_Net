@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FTP_3xc
+namespace FTP_Upload_Net
 {
     public partial class Form1 : Form
     {
@@ -20,9 +20,9 @@ namespace FTP_3xc
         private void Form1_Load(object sender, EventArgs e)
         {
           #if DEBUG
-             txtHostName.Text = @"ftp://127.0.0.3";
-             txtLogin.Text = @"admin";
-             txtPassword.Text = @"1234";
+             txtHostName.Text = @"ftp://0.0.0.0";
+             txtLogin.Text = @"login";
+             txtPassword.Text = @"";
           #endif
         }
         private void btnClose_Click(object sender, EventArgs e)

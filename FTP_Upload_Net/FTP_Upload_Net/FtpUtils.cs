@@ -2,7 +2,7 @@
 using System.IO;
 using System.Net;
 
-namespace FTP_3xc
+namespace FTP_Upload_Net
 {
     interface IFtpUtils
     {

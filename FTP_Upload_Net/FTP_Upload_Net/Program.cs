@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FTP_3xc
+namespace FTP_Upload_Net
 {
     static class Program
     {

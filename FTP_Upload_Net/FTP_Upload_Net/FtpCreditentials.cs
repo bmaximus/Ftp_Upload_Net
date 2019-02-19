@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FTP_3xc
+namespace FTP_Upload_Net
 {
     public class FtpCreditentials
     {
