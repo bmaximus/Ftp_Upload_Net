@@ -1,4 +1,4 @@
-# Ftp_Upload_Net
+# Ftp Upload Net
 
 This is a simple FTP Client written with C# and .NET Framework 4.6+ 
 
